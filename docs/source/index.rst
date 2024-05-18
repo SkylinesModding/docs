@@ -39,10 +39,10 @@ Links
     :maxdepth: 2
     :titlesonly:
 
-- `Official C:S Website <http://www.citiesskylines.com/>`__
-- `Official C:S Wiki <http://www.skylineswiki.com/Cities:_Skylines_Wiki>`__
-- `C:S on Steam <http://store.steampowered.com/app/255710/>`__
-- `C:S Steam Workshop <http://steamcommunity.com/app/255710/workshop/>`__
+- `Official Cities:Skylines Website <http://www.citiesskylines.com/>`__
+- `Official Cities:Skylines Wiki <http://www.skylineswiki.com/Cities:_Skylines_Wiki>`__
+- `Cities:Skylines on Steam <http://store.steampowered.com/app/255710/>`__
+- `Cities:Skylines Steam Workshop <http://steamcommunity.com/app/255710/workshop/>`__
 - `CitiesSkylinesModding <http://www.skylinesmodding.com/>`__
 - `/r/CitiesSkylines <https://www.reddit.com/r/CitiesSkylines/>`__
 - `/r/CitiesSkylinesModding <https://www.reddit.com/r/CitiesSkylinesModding>`__
